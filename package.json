@@ -1,0 +1,14 @@
+{
+  "name": "leaderboard-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Nikhil Vijayan <nkhilv@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "0.21.1"
+  }
+}
